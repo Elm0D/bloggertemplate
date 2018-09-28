@@ -1786,9 +1786,9 @@ background-color: #353535!important;
 }
 .article-tag-list-item {
   display: inline-block;
-  margin: 0 8px 8px 0 !important;
+  margin: 0 8px 8px 0px !important;
   border-radius: 2px;
-  padding: 0 !important;
+  padding: 0px !important;
 }
 .article-tag-list-item:nth-child(n+1) {
   background: #8bc34a;
